@@ -1,0 +1,1 @@
+link to docs : https://fastapi.tiangolo.com/
